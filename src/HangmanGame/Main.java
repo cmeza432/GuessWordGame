@@ -18,7 +18,7 @@ public class Main {
 	
 	public static void main(String[] args) {
 		// Word to be guess word, user has to find all correct letters
-		String guessWord = "Vizient";
+		String guessWord = "Zombies";
 		// Check if user has won
 		boolean isWinner = false;
 		// Create a board instance
